@@ -1,0 +1,29 @@
+{
+  "books": [
+    {
+      "title": "Đi qua ngày bão",
+      "quantity": 21,
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "title": "Nghệ thuật tư duy ngược",
+      "quantity": 15
+    },
+    {
+      "id": "3",
+      "title": "Đắc nhân tâm",
+      "quantity": 30
+    },
+    {
+      "id": "7a8c",
+      "title": "Người mù đọc sách",
+      "quantity": 12
+    },
+    {
+      "id": "47a5",
+      "title": "Ánh nắng tri thức",
+      "quantity": 21
+    }
+  ]
+}
